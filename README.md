@@ -20,7 +20,8 @@ This is basically Shoping Chart Application
    2.Spring Mvc
    3.Spring Boot
    4.Spring Security
-   5.Hibernate
+   5.Hibernate abd Rest Api
+   
    6. HTML,Css,JavaScript,Boostrap
    7.Maven
    8. Oracle DataBase
